@@ -1,11 +1,13 @@
 # Layout in CSS
 
-Een oefening in layout modes met CSS.
+### Oefenening 1:
 
-De instructie vind je in: [INSTRUCTIONS](https://github.com/fdnd-task/layout-in-css/blob/main/docs/INSTRUCTIONS.md)
+### Oefenening 2:
 
+### Oefenening 3:
 
+### Oefenening 4:
 
-## Licentie
+### Oefenening 5:
 
-This project is licensed under the terms of the [MIT license](./LICENSE).
+### Oefenening 6:
