@@ -6,6 +6,24 @@
     <title>Basic Layout 4</title>
     <link rel="stylesheet" href="../style.css">
     <style>
+      body {
+        display: grid;
+        grid-template-columns: 4fr 1fr; 
+        gap: 1em;
+      }
+      header, .cyan {
+        order: 2;
+      }
+      nav, .magenta {
+        order: 4;
+      }
+      main, .yellow{
+        order: 1;
+      }
+      footer, .black {
+        order: 3;
+      }
+      /* Do
       /* Doe hier jouw ding! */
     </style>
   </head>
